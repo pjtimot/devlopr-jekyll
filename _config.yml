@@ -20,6 +20,14 @@ urls:
 
 # Edit these details
 
+author_logo: profile.png
+author: Jesus Calls MInsitries
+author_bio:
+author_email: 'europe@jcpray.org'
+author_location: UK
+author_website_url: 'https://jesuscallsminsitries.org'
+typewrite-text: Jesus Calls Ministry is in the forefront of providing hope to countless people from all walks of life.
+
 # social links
 twitter_username:
 github_username:
